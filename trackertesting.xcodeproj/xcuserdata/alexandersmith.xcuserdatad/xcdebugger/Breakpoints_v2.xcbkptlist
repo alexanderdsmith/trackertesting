@@ -3,4 +3,256 @@
    uuid = "3FCCD4D2-D808-42F1-BCD3-F332B1B9B7CF"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A727180-C645-4D3C-8EB7-5B2E63B12F95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trackertesting/DriverImageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Controller"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DE9429C-B629-4EEB-A561-3FDB8A0A7816"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trackertesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0DE9429C-B629-4EEB-A561-3FDB8A0A7816 - 8e2f1dce4cb82d1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "trackertesting.ViewController.__deallocating_deinit"
+                  moduleName = "trackertesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersmith/Desktop/trackertesting/trackertesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0DE9429C-B629-4EEB-A561-3FDB8A0A7816 - 1c473481d831dcc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "trackertesting.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; trackertesting.ViewController"
+                  moduleName = "trackertesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersmith/Desktop/trackertesting/trackertesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "0DE9429C-B629-4EEB-A561-3FDB8A0A7816 - 9963924f146e3886"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "trackertesting.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; trackertesting.ViewController"
+                  moduleName = "trackertesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersmith/Desktop/trackertesting/trackertesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "389">
+               </Location>
+               <Location
+                  uuid = "0DE9429C-B629-4EEB-A561-3FDB8A0A7816 - b8881fae579a8cfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "trackertesting.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;trackertesting.ViewController&gt;"
+                  moduleName = "trackertesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersmith/Desktop/trackertesting/trackertesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "0DE9429C-B629-4EEB-A561-3FDB8A0A7816 - e2a33dea839104c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "trackertesting.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;trackertesting.ViewController&gt;"
+                  moduleName = "trackertesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersmith/Desktop/trackertesting/trackertesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBE708B3-CAF3-4E61-BDFD-C960D4667ACD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trackertesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "844D4B8B-7012-4C8A-80F0-C13FDD46396D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trackertesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "844D4B8B-7012-4C8A-80F0-C13FDD46396D - 8e2f1dce4cb82d1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "trackertesting.ViewController.__deallocating_deinit"
+                  moduleName = "trackertesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersmith/Desktop/trackertesting/trackertesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "844D4B8B-7012-4C8A-80F0-C13FDD46396D - 1c473481d831dcc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "trackertesting.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; trackertesting.ViewController"
+                  moduleName = "trackertesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersmith/Desktop/trackertesting/trackertesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "844D4B8B-7012-4C8A-80F0-C13FDD46396D - 9963924f146e3886"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "trackertesting.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; trackertesting.ViewController"
+                  moduleName = "trackertesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersmith/Desktop/trackertesting/trackertesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "389">
+               </Location>
+               <Location
+                  uuid = "844D4B8B-7012-4C8A-80F0-C13FDD46396D - b8881fae579a8cfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "trackertesting.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;trackertesting.ViewController&gt;"
+                  moduleName = "trackertesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersmith/Desktop/trackertesting/trackertesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "844D4B8B-7012-4C8A-80F0-C13FDD46396D - e2a33dea839104c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "trackertesting.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;trackertesting.ViewController&gt;"
+                  moduleName = "trackertesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandersmith/Desktop/trackertesting/trackertesting/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D23EEAB-A04C-4C38-9BE7-4D766FB2C19D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trackertesting/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8908D746-8582-48FE-B032-641BBA5FCC2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trackertesting/GestureUtils.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "SwipeType"
+            landmarkType = "13">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
